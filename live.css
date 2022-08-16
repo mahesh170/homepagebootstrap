@@ -1,0 +1,171 @@
+#main{
+    height:1400px;
+    width:100%;
+   /* background-color: #c51f1f; */
+    /*border: 3px solid blue;*/
+}
+body{
+    margin: auto;
+}
+
+#header{
+    height: 80px;
+    width: 100%;
+    background-color: blue;
+  
+    /* text-align: center;
+    font-size: large;
+    font-weight: 800;
+    color: #ffa600;*/
+}
+#filter{
+    width: 100%;
+    background-color: red;
+    height:80px;
+}
+#foot{
+    height:60px;
+    width: 100%;
+    background-color: rgb(19, 17, 17);
+    text-align: center;
+    color: red;
+}
+
+
+
+#fl{
+    color:white;
+    font-weight: bold;
+}
+#fil1{
+    margin-top:10px;
+}
+#list{
+    
+    margin-left: 650px;
+    font-size: large;
+    font-weight: lighter;
+
+}
+
+
+
+#result {
+    width:400px;
+}
+
+
+
+
+
+
+#resturant{
+    height: 80px;
+    width: 500px;
+    /*background-color: red;*/
+    
+}
+footer{
+    width: 100%;
+    height:20px;
+    background-color: rgb(26, 9, 9);
+    position: fixed;
+}
+
+
+/*#left
+{
+    height: 400px;
+    width: 250px;
+    float: left;
+   /* border: 3px solid;
+    margin-top: 40px;
+    margin-left:20px;
+    box-shadow: 5px 10px #e4dbda;
+}*/
+
+#second{
+height: 1200px;
+width: 400px;
+float: left;
+margin-top: 10px;
+margin-left: 40px;
+/*background-color: blueviolet;*/
+
+
+
+}
+
+#secondfirst{
+    height:250px;
+    width:400px;
+   /* border: 1px solid;*/
+    margin-top:5px;
+    box-shadow: 5px 10px #e4dbda ;
+
+}
+.secondsecond{
+    height:250px;
+    width:400;
+    /*border: 1px solid;*/
+    margin-top: 25px;
+    box-shadow: 5px 10px #e4dbda;
+
+}
+#house{
+margin-top: 10px;
+}
+
+#btn1{
+ background-color: blue;
+}
+#btn2{
+    background-color: #ffa600;
+    margin-left: 10px;
+   }
+#btn3{
+    background-color: #9fe1e4;
+    margin-top: 15px;
+   }
+#btn4{
+    background-color: rgb(221, 73, 177);
+    margin-top: 15px;
+   }
+         
+
+
+#jeevan{
+    margin-top:10px;
+}
+
+#one {
+height:250px;
+width:195px;
+background-image:url('cafe.jpg');
+background-size:auto;
+background-repeat: no-repeat;
+border-radius: 99%;
+float: left;
+}
+
+#two{
+    height:250px;
+    width:200px;
+    margin-left: 5px;
+    float: left;
+}
+#third {
+    height:250px;
+    width:195px;
+    background-image:url('pizza.jpg');
+    background-size: auto;
+    background-repeat: no-repeat;
+    float: left;
+    }
+    
+    #fourth{
+        height:250px;
+        width:200px;
+        margin-left: 5px;
+        float: left;
+    }
